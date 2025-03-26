@@ -1,10 +1,10 @@
 import requests
 
-url = "http://172.28.229.102:5000/download_notas"
+url = "http://127.0.0.1:5000/download_notas"
 
 payload = {
-    "cnpj": "00149146000101",
-    "senha": "Mago@2025",
+    "cnpj": "CNPJ-SOMENTE-NUMEROS",
+    "senha": "SENHA",
     "data_inicio": "01/03/2025",
     "data_fim": "25/03/2025"
 }
