@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="752084">
+            <Numero>202500000000002</Numero>
+            <CodigoVerificacao>GR5J15O51</CodigoVerificacao>
+            <DataEmissao>2025-01-29T14:00:30</DataEmissao>
+            <OutrasInformacoes></OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>1825.00</BaseCalculo>
+                <Aliquota>5.0</Aliquota>
+                <ValorIss>0.00</ValorIss>
+                <ValorLiquidoNfse>1825.00</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>00149146000101</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>1222</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>MD ELETROREFRIGERACAO LTDA</RazaoSocial>
+                <NomeFantasia>ELETROMAGO</NomeFantasia>
+                <Endereco>
+                    <Endereco>  AV MATO GROSSO, 147</Endereco>
+                    <Numero>147</Numero>
+                    <Bairro>centro</Bairro>
+                    <CodigoMunicipio>5103353</CodigoMunicipio>
+                    <Uf>MT</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>78652000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone>6635641701</Telefone>
+                    <Email>ELETROMAGO@HOTMAIL.COM</Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>5103353</CodigoMunicipio>
+                <Uf>MT</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2025-01-29</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>1825.00</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>0.00</ValorIss>
+                            <Aliquota>5.0</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>14.01</ItemListaServico>
+                        <CodigoCnae>3313901</CodigoCnae>
+                        <CodigoTributacaoMunicipio>0000140000001</CodigoTributacaoMunicipio>
+                        <Discriminacao>SERVIÇO DE MÃO DE OBRA-1825.0 </Discriminacao>
+                        <CodigoMunicipio>5103353</CodigoMunicipio>
+                        <CodigoPais>1058</CodigoPais>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>5103353</MunicipioIncidencia>
+                        <NumeroProcesso></NumeroProcesso>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>00149146000101</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>000000447</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>02916265020357</Cnpj>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>JBS S/A</RazaoSocial>
+                        <Endereco>
+                            <Endereco>GOVERNADOR JAIME CAMPOS</Endereco>
+                            <Numero>7435</Numero>
+                            <Complemento></Complemento>
+                            <Bairro>JARDIM ELDORADO</Bairro>
+                            <CodigoMunicipio>5103353</CodigoMunicipio>
+                            <Uf>MT</Uf>
+                            <CodigoPais>1058</CodigoPais>
+                            <Cep>78150000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>1131444000</Telefone>
+                            <Email>boni@jbs.com.br                                             </Email>
+                        </Contato>
+                    </Tomador>
+                    <RegimeEspecialTributacao>0</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+</CompNfse>

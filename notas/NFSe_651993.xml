@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="651993">
+            <Numero>202400000000005</Numero>
+            <CodigoVerificacao>J91655EAT</CodigoVerificacao>
+            <DataEmissao>2024-04-12T09:04:11</DataEmissao>
+            <OutrasInformacoes></OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>1323.40</BaseCalculo>
+                <Aliquota>5.0</Aliquota>
+                <ValorIss>66.17</ValorIss>
+                <ValorLiquidoNfse>1323.40</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>00149146000101</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>1222</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>MD ELETROREFRIGERACAO LTDA</RazaoSocial>
+                <NomeFantasia>ELETROMAGO</NomeFantasia>
+                <Endereco>
+                    <Endereco>  AV MATO GROSSO, 147</Endereco>
+                    <Numero>147</Numero>
+                    <Bairro>centro</Bairro>
+                    <CodigoMunicipio>5103353</CodigoMunicipio>
+                    <Uf>MT</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>78652000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone>6635641701</Telefone>
+                    <Email>ELETROMAGO@HOTMAIL.COM</Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>5103353</CodigoMunicipio>
+                <Uf>MT</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2024-04-12</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>1323.40</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>66.17</ValorIss>
+                            <Aliquota>5.0</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>14.01</ItemListaServico>
+                        <CodigoCnae>3313901</CodigoCnae>
+                        <CodigoTributacaoMunicipio>0000140000001</CodigoTributacaoMunicipio>
+                        <Discriminacao> PRESTAÇÃO DE SERVIÇO -1323.4 </Discriminacao>
+                        <CodigoMunicipio>5103353</CodigoMunicipio>
+                        <CodigoPais>1058</CodigoPais>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>5103353</MunicipioIncidencia>
+                        <NumeroProcesso></NumeroProcesso>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>00149146000101</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>000000447</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>75109074000160</Cnpj>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>GELOPAR REFRIGERAÇÃO PARANAENSE LTDA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>RUA DR ELI VOLPATO</Endereco>
+                            <Numero>250</Numero>
+                            <Complemento>CX 151</Complemento>
+                            <Bairro>CHAPADA</Bairro>
+                            <CodigoMunicipio>4101804</CodigoMunicipio>
+                            <Uf>PR</Uf>
+                            <CodigoPais>1058</CodigoPais>
+                            <Cep>83707746</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>4136079000</Telefone>
+                            <Email>fernanda.carlota@gelopar.com.br                             </Email>
+                        </Contato>
+                    </Tomador>
+                    <RegimeEspecialTributacao>0</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>2</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+</CompNfse>

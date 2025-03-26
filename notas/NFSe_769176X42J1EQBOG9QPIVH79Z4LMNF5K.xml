@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="769176X42J1EQBOG9QPIVH79Z4LMNF5K">
+            <Numero>202500000000013</Numero>
+            <CodigoVerificacao>F78Z5LQ9E</CodigoVerificacao>
+            <DataEmissao>2025-03-24T10:48:24</DataEmissao>
+            <OutrasInformacoes>Val. Aprox. Tributos:</OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>6800.00</BaseCalculo>
+                <Aliquota>2.01</Aliquota>
+                <ValorIss>136.68</ValorIss>
+                <ValorLiquidoNfse>6800.00</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>00149146000101</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>1222</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>MD ELETROREFRIGERACAO LTDA</RazaoSocial>
+                <NomeFantasia>ELETROMAGO</NomeFantasia>
+                <Endereco>
+                    <Endereco>  AV MATO GROSSO, 147</Endereco>
+                    <Numero>147</Numero>
+                    <Bairro>centro</Bairro>
+                    <CodigoMunicipio>5103353</CodigoMunicipio>
+                    <Uf>MT</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>78652000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone>6635641701</Telefone>
+                    <Email>ELETROMAGO@HOTMAIL.COM</Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>5103353</CodigoMunicipio>
+                <Uf>MT</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2025-03-24</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>6800.00</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>136.68</ValorIss>
+                            <Aliquota>2.01</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>14.01</ItemListaServico>
+                        <CodigoCnae>3313901</CodigoCnae>
+                        <CodigoTributacaoMunicipio>0000140000001</CodigoTributacaoMunicipio>
+                        <Discriminacao>SERVIÇO E MANUTENÇÃO EM TERMOKING, TROCA DE VÁLVULA DE EXPANSÃO, FILTRO SECADOR, MÃO DE OBRA DAS TROCAS, E RECARGA DE GÁS 404A-6800.0 </Discriminacao>
+                        <CodigoMunicipio>5103353</CodigoMunicipio>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>5103353</MunicipioIncidencia>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>00149146000101</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>000000447</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cnpj>04877769000143</Cnpj>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>LATICINIOS ALTO BOA VISTA LTDA</RazaoSocial>
+                        <Endereco>
+                            <Endereco>AV. MOREIRA CABRAL</Endereco>
+                            <Numero>SN</Numero>
+                            <Bairro>VERANÓPOLIS</Bairro>
+                            <CodigoMunicipio>5103353</CodigoMunicipio>
+                            <Uf>MT</Uf>
+                            <CodigoPais>1058</CodigoPais>
+                            <Cep>78653000</Cep>
+                        </Endereco>
+                        <Contato>
+                            <Telefone>6232951651</Telefone>
+                            <Email>contabilidadedkr@outlook.com</Email>
+                        </Contato>
+                    </Tomador>
+                    <RegimeEspecialTributacao>0</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>1</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+</CompNfse>

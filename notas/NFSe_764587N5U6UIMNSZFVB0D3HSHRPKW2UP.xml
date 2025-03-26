@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompNfse xmlns="http://www.abrasf.org.br/nfse.xsd" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#">
+    <Nfse versao="2.01">
+        <InfNfse Id="764587N5U6UIMNSZFVB0D3HSHRPKW2UP">
+            <Numero>202500000000009</Numero>
+            <CodigoVerificacao>3E7DB3XSH</CodigoVerificacao>
+            <DataEmissao>2025-03-12T17:45:06</DataEmissao>
+            <OutrasInformacoes>Val. Aprox. Tributos:</OutrasInformacoes>
+            <ValoresNfse>
+                <BaseCalculo>250.00</BaseCalculo>
+                <Aliquota>5.0</Aliquota>
+                <ValorIss>5.03</ValorIss>
+                <ValorLiquidoNfse>250.00</ValorLiquidoNfse>
+            </ValoresNfse>
+            <PrestadorServico>
+                <IdentificacaoPrestador>
+                    <CpfCnpj>
+                        <Cnpj>00149146000101</Cnpj>
+                    </CpfCnpj>
+                    <InscricaoMunicipal>1222</InscricaoMunicipal>
+                </IdentificacaoPrestador>
+                <RazaoSocial>MD ELETROREFRIGERACAO LTDA</RazaoSocial>
+                <NomeFantasia>ELETROMAGO</NomeFantasia>
+                <Endereco>
+                    <Endereco>  AV MATO GROSSO, 147</Endereco>
+                    <Numero>147</Numero>
+                    <Bairro>centro</Bairro>
+                    <CodigoMunicipio>5103353</CodigoMunicipio>
+                    <Uf>MT</Uf>
+                    <CodigoPais>1058</CodigoPais>
+                    <Cep>78652000</Cep>
+                </Endereco>
+                <Contato>
+                    <Telefone>6635641701</Telefone>
+                    <Email>ELETROMAGO@HOTMAIL.COM</Email>
+                </Contato>
+            </PrestadorServico>
+            <OrgaoGerador>
+                <CodigoMunicipio>5103353</CodigoMunicipio>
+                <Uf>MT</Uf>
+            </OrgaoGerador>
+            <DeclaracaoPrestacaoServico>
+                <InfDeclaracaoPrestacaoServico>
+                    <Competencia>2025-03-12</Competencia>
+                    <Servico>
+                        <Valores>
+                            <ValorServicos>250.00</ValorServicos>
+                            <ValorDeducoes>0.00</ValorDeducoes>
+                            <ValorPis>0.00</ValorPis>
+                            <ValorCofins>0.00</ValorCofins>
+                            <ValorInss>0.00</ValorInss>
+                            <ValorIr>0.00</ValorIr>
+                            <ValorCsll>0.00</ValorCsll>
+                            <OutrasRetencoes>0.00</OutrasRetencoes>
+                            <ValorIss>5.03</ValorIss>
+                            <Aliquota>5.0</Aliquota>
+                            <DescontoIncondicionado>0.00</DescontoIncondicionado>
+                            <DescontoCondicionado>0.00</DescontoCondicionado>
+                        </Valores>
+                        <IssRetido>2</IssRetido>
+                        <ResponsavelRetencao>1</ResponsavelRetencao>
+                        <ItemListaServico>14.01</ItemListaServico>
+                        <CodigoCnae>3313901</CodigoCnae>
+                        <CodigoTributacaoMunicipio>0000140000001</CodigoTributacaoMunicipio>
+                        <Discriminacao>SERVIÇO DE MANUTENÇÃO EM APARELHO DE AR CONDICIONADO CARRO VOYAGE 1.6-250.0 </Discriminacao>
+                        <CodigoMunicipio>5103353</CodigoMunicipio>
+                        <ExigibilidadeISS>1</ExigibilidadeISS>
+                        <MunicipioIncidencia>5103353</MunicipioIncidencia>
+                    </Servico>
+                    <Prestador>
+                        <CpfCnpj>
+                            <Cnpj>00149146000101</Cnpj>
+                        </CpfCnpj>
+                        <InscricaoMunicipal>000000447</InscricaoMunicipal>
+                    </Prestador>
+                    <Tomador>
+                        <IdentificacaoTomador>
+                            <CpfCnpj>
+<Cpf>32883080100</Cpf>
+                            </CpfCnpj>
+                        </IdentificacaoTomador>
+                        <RazaoSocial>ANTONIO REZENDE LUZ</RazaoSocial>
+                        <Endereco>
+                            <Endereco>AVENIDA CANAÃ?</Endereco>
+                            <Numero>203</Numero>
+                            <Bairro>CENTRO</Bairro>
+                            <CodigoMunicipio>5103353</CodigoMunicipio>
+                            <Uf>MT</Uf>
+                            <CodigoPais>1058</CodigoPais>
+                            <Cep>78652000</Cep>
+                        </Endereco>
+                        <Contato/>
+                    </Tomador>
+                    <RegimeEspecialTributacao>0</RegimeEspecialTributacao>
+                    <OptanteSimplesNacional>1</OptanteSimplesNacional>
+                    <IncentivoFiscal>2</IncentivoFiscal>
+                </InfDeclaracaoPrestacaoServico>
+            </DeclaracaoPrestacaoServico>
+        </InfNfse>
+    </Nfse>
+</CompNfse>
